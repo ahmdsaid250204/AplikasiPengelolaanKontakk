@@ -1,2 +1,0 @@
-# AplikasiPengelolaanKontakk
-Latihan 3
