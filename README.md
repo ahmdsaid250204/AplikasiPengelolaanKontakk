@@ -1,5 +1,5 @@
 
-# Aplikasi Penghitung Kata
+# Aplikasi Pengelolaan Kontak
 
 # Deskripsi
     "Aplikasi Pengelolaan Kontak". 
